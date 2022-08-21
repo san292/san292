@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm San292</h1>
 <h3 align="center">je suis développeur frontend spécialisé en React,avec de solides bases en Node</h3>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/san292/ecommerce-front-react)
+- 🔭 I’m currently working on [project-assocation and project electric e-Bike](https://github.com/san292/l-enfant-trouv-)
 
-- 🌱 I’m currently learning **firebase, Bootstrap, jest**
+- 🌱 I’m currently learning **firebase, tailwind, jest**
 
 - 💬 Ask me about **react, node**
 
