@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm San292</h1>
+<h1 align="center">Hi 👋, I'm Sance</h1>
 <h3 align="center">je suis développeur frontend spécialisé en React,avec de solides bases en Node</h3>
 
 - 🔭 I’m currently working on [project-assocation and project electric e-Bike](https://github.com/san292/l-enfant-trouv-)
